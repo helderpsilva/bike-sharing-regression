@@ -1,1 +1,1 @@
-# Bike Sharing - Regression Analysis
+![](./img/bike_sharing.png)
